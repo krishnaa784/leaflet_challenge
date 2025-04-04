@@ -1,0 +1,28 @@
+/* static/css/style.css */
+
+/* Set a background color and font for the whole page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Make the map fill most of the screen */
+  #map {
+    height: 90vh;  /* Make the map take 90% of the viewport height */
+    width: 100%;   /* Make the map take full width */
+  }
+  
+  /* Styling the header */
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+    font-size: 2em;
+  }
+  
+
+
+
+
